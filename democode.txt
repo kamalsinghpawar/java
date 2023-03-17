@@ -1,10 +1,10 @@
 class pw
 { public void m1()
   {
-   ///code
+   ///code34
   }
 public void m1()
   {
-   ///code
+   ///code23
   }
 }
